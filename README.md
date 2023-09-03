@@ -22,12 +22,3 @@
 ![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Sketch Badge](https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=fff&style=flat)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neal-garcia95&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neal-garcia95&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
