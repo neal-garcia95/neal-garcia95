@@ -35,8 +35,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.nealgarcia.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nealgarcia"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nealgarcia95@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/neal.garcia"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.nealgarcia.com">www.nealgarcia.com></a>
+<a href="https://linkedin.com/in/nealgarcia">LinkedIn</a>
+<a href="mailto:nealgarcia95@gmail.com">Email</a>
+<a href="https://instagram.com/neal.garcia">Insta</a>
 </p>
