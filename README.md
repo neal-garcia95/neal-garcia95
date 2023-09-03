@@ -31,12 +31,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neal-garcia95&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.nealgarcia.com">www.nealgarcia.com></a>
-<a href="https://linkedin.com/in/nealgarcia">LinkedIn</a>
-<a href="mailto:nealgarcia95@gmail.com">Email</a>
-<a href="https://instagram.com/neal.garcia">Insta</a>
-</p>
